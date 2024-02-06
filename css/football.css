@@ -1,0 +1,53 @@
+ /* .field {
+   width: 720px;
+   height: 220px;
+    border: solid black;
+    background-color: rgb(45, 185, 45);
+    border-radius: 30px;
+     margin: auto; 
+    
+     margin: 36px auto; 
+  
+
+   
+   
+}
+.ball{
+position: relative;
+top: 50px;
+left: 50px;
+}
+
+ 
+
+
+.name{
+    display: flex;
+    justify-content: center;
+
+    color: #000; 
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Montserrat Alternates';
+
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    margin-bottom: 36px;
+
+}
+
+.hr-football {
+    width: 536px;
+    height: 1px;
+    background-color: #000;
+    margin: 36px auto;
+
+}
+
+.football{
+    height: 276px;
+    width: 720px;
+}
+ */

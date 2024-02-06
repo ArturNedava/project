@@ -1,0 +1,63 @@
+
+ /* canvas {
+   border: 1px solid black;
+}
+
+.dinoroad {
+   position: relative;
+   top: 1595px;
+   width: 950px;
+}
+
+.Dino {
+   position: absolute; 
+   top: 1590px;
+   left: 400px;
+   width: 90px;
+}
+
+.hr-dino{
+   width: 536px;
+   height: 1px;
+   background-color: #000;
+   margin: 36px auto;
+}
+
+.cactus {
+   position: absolute; 
+   top: 1600px;
+   width: 40px;
+   left: 1100px;
+   animation: cacTusMov 3s infinite linear;
+}
+
+ @keyframes cacTusMov {
+   0% {
+      left: 1100px;
+   }
+   100%{
+      left: 215px;
+   }
+} 
+
+.jump {
+   animation: jump 2s linear; 
+}
+
+@keyframes jump {
+   0% {
+      top: 1590px;
+   }
+   30% {
+      top: 1480px;
+   }
+   50% {
+      top: 1420px;
+   }
+   80% {
+      top: 1480px;
+   }
+   100% {
+      top: 1590px;
+   }
+}  */
